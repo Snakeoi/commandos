@@ -1,0 +1,10 @@
+Aktywacja lptw
+.\.venvs\lpthw\Scripts\activate
+
+Aby uruchomić nosetests wpisz komendę:
+nosetests --traverse-namespace
+
+W razie problemów z instalacją virtualenv:
+Powershell jako administartor
+komenda:
+Set-ExecutionPolicy unrestricted
